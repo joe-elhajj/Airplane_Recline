@@ -1,4 +1,4 @@
-# Airplane Recline Stastical Analysis
+# Airplane Recline Statistical Analysis
 
 ## Project Overview
 Airplane seat reclining has sparked debates among travelers about etiquette and comfort. This project analyzes survey data to explore public opinions on seat reclining, focusing on the relationships between age, gender, and perceived rudeness. The primary goal is to identify patterns and insights to better understand societal norms around airplane seat reclining.
@@ -48,6 +48,10 @@ Airplane seat reclining has sparked debates among travelers about etiquette and 
 ---
 
 ## Repository Structure
+- **`data/`**: Contains the cleaned dataset (`FlyingDataUpdated-flying-etiquette.csv`).
+- **`scripts/`**: SAS script for statistical analysis
+- **`outputs/`**: Test and Procedure Results
+- **`README.md`**: Project overview and documentation.
 
 ---
 
